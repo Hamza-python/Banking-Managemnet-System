@@ -1,6 +1,8 @@
+//Banking management system. This program creates and mananges customers accounts.
 #include<iostream>
 using namespace std;
 
+//customer information node
 struct customerinfoNode{
 	customerinfoNode* prev_node_address;
 	string cust_name;
