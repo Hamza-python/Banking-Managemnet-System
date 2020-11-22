@@ -1,3 +1,4 @@
+//Banking management system. This program creates and mananges customers accounts.
 #include<iostream>
 using namespace std;
 
