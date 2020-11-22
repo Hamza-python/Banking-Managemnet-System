@@ -2,6 +2,7 @@
 #include<iostream>
 using namespace std;
 
+//customer information node
 struct customerinfoNode{
 	customerinfoNode* prev_node_address;
 	string cust_name;
